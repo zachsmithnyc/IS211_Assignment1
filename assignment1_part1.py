@@ -1,11 +1,11 @@
 
-def listDivide(numbers, divide):
+def list_divide(numbers, divide):
     """
     The function returns the number of elements in the numbers list that are divisibleby divide
     """
     pass
 
-def testListDivide():
+def test_list_divide():
     """
     Test listDivide
     """
